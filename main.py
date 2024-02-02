@@ -1,5 +1,3 @@
-##手番で1つもひっくり返せない場合パスしてプレイヤーを交代
-
 from numpy import zeros, where, float32, array2string
 import random
 
