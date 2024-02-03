@@ -60,5 +60,10 @@ class GameMaster:
         else:
             print("\n黒のターン●")
 
+    
+
+    def gamestart():
+        
+
 
 
