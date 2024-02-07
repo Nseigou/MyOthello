@@ -13,7 +13,7 @@ class Player:
 
 
 # 縦と横を入力してひっくり返すまでの関数（指定したマスに置けない、または、ひっくり返せない場合の処理も含む）
-    def is_valid(self, board: Board):
+    def is_valid(self, board: Board) -> bool:
 
 
         row = input("-----------------\n縦を指定する数字を入力して下さい：")
